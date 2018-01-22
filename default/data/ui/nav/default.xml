@@ -1,0 +1,8 @@
+<nav search_view="search" color="#F04F39">
+  <view name="git_config_tracker" default="true" />
+  <view name="search" />
+  <view name="datasets" />
+  <view name="reports" />
+  <view name="alerts" />
+  <view name="dashboards" />
+</nav>

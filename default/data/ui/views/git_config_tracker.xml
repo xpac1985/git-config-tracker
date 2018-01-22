@@ -1,0 +1,16 @@
+<dashboard>
+  <label>git Config Tracker</label>
+  <row>
+    <panel>
+      <table>
+        <search ref="git Config Tracker"></search>
+        <option name="count">30</option>
+        <option name="dataOverlayMode">none</option>
+        <option name="percentagesRow">false</option>
+        <option name="rowNumbers">true</option>
+        <option name="totalsRow">false</option>
+        <option name="wrap">true</option>
+      </table>
+    </panel>
+  </row>
+</dashboard>
