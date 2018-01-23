@@ -1,2 +1,2 @@
-[script://$SPLUNK_HOME/etc/apps/git-config-tracker/bin/git_commit.sh]
+[script://$SPLUNK_HOME/etc/apps/git-config-tracker/bin/git-commit.sh]
 disabled = false
