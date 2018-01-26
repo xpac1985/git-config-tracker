@@ -5,6 +5,7 @@ Splunk dashboard to view recent changes and which files and how many lines have 
 
 ## Requirements
 * git has to be installed on each server that should be monitored
+  * works with git 1.8.3.1, **doesn't** work on git 1.7.1. -> use an up-to-date git
 
 ## Installation
 This app needs to be put on:
